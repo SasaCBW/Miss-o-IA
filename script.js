@@ -15,7 +15,7 @@ function mostrarInicio() {
                     Assim que saiu da escola Sara se depara com uma nova tecnologia:
                     um chat que consegue responder todas as dúvidas que uma pessoa
                     pode ter, o chat também gera imagens e áudios hiper-realistas.
-                    Qual o primeiro pensamento de Gabriel?
+                    Qual o primeiro pensamento de Sara?
                 </p>
             </div>
 
